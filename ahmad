@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>كوكب لازورد</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>كوكب لازورد</h1>
+            <p class="subtitle">رحلة إلى عالم الحكمة والجمال</p>
+        </header>
+
+        <section class="hero">
+            <img src="https://i.imgur.com/5h9V0m7.png" alt="كوكب لازورد" class="planet" />
+            <div class="characters">
+                <img src="https://i.imgur.com/zxgMivk.png" alt="الملك الحكيم" title="الملك الحكيم" />
+                <img src="https://i.imgur.com/L5hVGnI.png" alt="جاد الحكيم" title="جاد الحكيم" />
+                <img src="https://i.imgur.com/ow9klxI.png" alt="أيان" title="أيان" />
+            </div>
+        </section>
+
+        <section class="about">
+            <h2>عن الرواية</h2>
+            <p>
+                رواية كوكب لازورد هي رحلة فكرية وإنسانية في عالم مثالي حيث تنتصر الحكمة، ويُحتفى بالحب والجمال.
+                تأليف أحمد خضر ياسين، تجمع بين الفلسفة والخيال العلمي والرؤية الإنسانية العميقة.
+            </p>
+            <a href="https://example.com/download/planet-lazurd.pdf" target="_blank" class="btn">تحميل الرواية كاملة</a>
+        </section>
+
+        <footer>
+            <p>© 2025 أحمد خضر ياسين | كوكب لازورد</p>
+        </footer>
+    </div>
+</body>
+</html>
